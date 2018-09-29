@@ -1,0 +1,10 @@
+C:\Users\3dgroup\Documents\Visual Studio 2010\Projects\AstroCalc\AstroCalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\3dgroup\documents\visual studio 2010\Projects\AstroCalc\AstroCalc\bin\Debug\AstroCalc.dll
+C:\Users\3dgroup\documents\visual studio 2010\Projects\AstroCalc\AstroCalc\bin\Debug\AstroCalc.pdb
+C:\Users\3dgroup\documents\visual studio 2010\Projects\AstroCalc\AstroCalc\obj\Debug\AstroCalc.dll
+C:\Users\3dgroup\documents\visual studio 2010\Projects\AstroCalc\AstroCalc\obj\Debug\AstroCalc.pdb
+C:\Users\yo\Documents\Visual Studio 2012\Projects\AstroCalc\AstroCalc\bin\Debug\AstroCalc.dll
+C:\Users\yo\Documents\Visual Studio 2012\Projects\AstroCalc\AstroCalc\bin\Debug\AstroCalc.pdb
+C:\Users\yo\Documents\Visual Studio 2012\Projects\AstroCalc\AstroCalc\obj\Debug\AstroCalc.csprojResolveAssemblyReference.cache
+C:\Users\yo\Documents\Visual Studio 2012\Projects\AstroCalc\AstroCalc\obj\Debug\AstroCalc.dll
+C:\Users\yo\Documents\Visual Studio 2012\Projects\AstroCalc\AstroCalc\obj\Debug\AstroCalc.pdb
